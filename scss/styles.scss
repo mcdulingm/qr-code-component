@@ -22,13 +22,13 @@ a {
     &:hover {
         color: $qrblue;
     }
-    &::visited {
-        color: $white;
+    &:visited {
+        color: $qrblue;
     }
 }
 
 
-body {
+main {
     width: 100vw;
     height: 100vh;
     margin: 0;
